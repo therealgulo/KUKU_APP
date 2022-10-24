@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KukuApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <string name="trading">TRADE</string>
+    <string name="housing_for_chicken">House</string>
+    <string name="feeding_chicken">Feeds</string>
+    <string name="chicken_health">Health</string>
+    <string name="chicken_breeds">Breed</string>
+
+    <string name="text"><![CDATA[\tOn this basis the average poultry farm will produce 20,000 eggs in a year. He was brought up on the land, and he does not know what to do to get land to establish a poultry farm. I am getting tired of hearing about that wonderful poultry farm he mentioned.
+    Any worthwhile poultry farm will be covered by the regulations.
+    ]]>
+    </string>
+</resources>

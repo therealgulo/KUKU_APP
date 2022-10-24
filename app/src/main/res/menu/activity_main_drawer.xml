@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="@string/trading" >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_home"
+                    android:title="@string/menu_home" />
+
+            </group>
+        </menu>
+    </item>
+    <item android:title="FAQ's" >
+        <menu>
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_chicken_health"
+                android:title="@string/chicken_health" />
+
+            <item
+                android:id="@+id/nav_chicken_housing"
+                android:title="@string/housing_for_chicken" />
+            <item
+                android:id="@+id/nav_chicken_feeds"
+                android:title="@string/feeding_chicken" />
+
+            <item
+                android:id="@+id/nav_chicken_breeds"
+                android:title="@string/chicken_breeds" />
+        </group>
+        </menu>
+    </item>
+
+</menu>

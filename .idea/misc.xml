@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/drawable/breeds.xml" value="0.1025" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/fragment_chicken_breeds.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/fragment_chicken_feeds.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/fragment_chicken_health.xml" value="0.33" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/fragment_chicken_housing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/layout/product_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/krasher/Desktop/cephas/anotherone/kukuapp/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/housing.xml" value="0.1845" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1928087545596665" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/drawer_header.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/layout/fragment_chicken_breeds.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/fragment_chicken_feeds.xml" value="0.1375" />
+        <entry key="app/src/main/res/layout/fragment_chicken_health.xml" value="0.18974358974358974" />
+        <entry key="app/src/main/res/layout/fragment_chicken_housing.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/layout/fragment_trading.xml" value="0.34629629629629627" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/product_item.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.17314814814814813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
